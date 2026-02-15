@@ -1,0 +1,7 @@
+{
+  "name": "TruthLens Deepfake Forensic Tool",
+  "description": "A high-performance forensic tool for detecting AI-generated video manipulations. Analyzes facial textures, blinking patterns, and mouth synchrony using multi-frame vision analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
